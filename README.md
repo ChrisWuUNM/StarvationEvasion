@@ -38,5 +38,9 @@ Visualizer:
 * Brett Hartel - bhartel@unm.edu
 * Laurence Mirabal - lmirabal8689@unm.edu
 * Tess Daughton - tdaughto@unm.edu
+* 
+
+Something Cool:
+* Chris Wu - cwu@unm.edu
 
 
